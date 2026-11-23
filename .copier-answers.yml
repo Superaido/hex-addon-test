@@ -1,0 +1,21 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+# https://copier.readthedocs.io/en/stable/updating/#never-change-the-answers-file-manually
+_commit: v1.3.2
+_src_path: gh:Master-Bw3/Hex-Casting-1.21.1-Addon-Template
+advanced: true
+classname: HexAddonTest
+default_branch: main
+description: Hex Addon Test addon for Hex Casting
+display_name: Hex Addon Test
+github_repo: hex-addon-test
+github_user: Superaido
+homepage_url: https://superaido.github.io/hex-addon-test
+issues_url: https://github.com/Superaido/hex-addon-test/issues
+java_package: io.github.superaido.hexaddontest
+kotlin_package: io.github.superaido.hexaddontest
+minecraft_version_in_mod_version: true
+mit_license: true
+mod_version: 1.0.0
+modid: hexaddontest
+nix_shell: false
+sources_url: https://github.com/Superaido/hex-addon-test
